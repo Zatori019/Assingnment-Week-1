@@ -1,6 +1,6 @@
 import java.util.Scanner;
 public class Main {
-    // Array Format: {team a, team b; team c; team d}
+     // Array Format: {team a, team b; team c; team d}
     static int[] teamPoints = {0, 0, 0, 0};
     static int[] teamDraws = {0, 0, 0, 0};
     static int[] teamWins = {0, 0, 0, 0};
